@@ -2,7 +2,11 @@
     "name": "node-example",
     "version": "1.0.0",
     "description": "This example is so cool.",
+<<<<<<< HEAD
     "main": "server.js",
+=======
+    "main": "Serwer.js",
+>>>>>>> 363abbf1f36d9e9b6317b59a64e6709e5ddb8739
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
